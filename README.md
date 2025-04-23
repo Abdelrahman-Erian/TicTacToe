@@ -29,7 +29,6 @@
         <li>If all cells are filled and no winner is found, the game ends in a <strong>draw</strong>.</li>
     </ul>
   </li>
-  <li><p>Enjoy the game and have a nice time playing!🎉</p></li>
 </ul>
 
     
